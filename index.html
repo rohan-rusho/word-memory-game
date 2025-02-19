@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./css/styles.css">
+        <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
+        <title>Word Memory Game</title>
+    </head>
+    <body>
+        <!-- Logo Section -->
+        
+        <div class="mainContainer">
+            
+
+            <div class="instructions">
+                <h4>BUBT IT Club Presents</h4>
+                <h1>Words Memory Game</h1>
+                <p><strong>1.</strong> Memorize and type the exact word in the next box as fast as you can. <br> 
+                <strong>2.</strong> Press enter every time you type the word. <br> 
+                <strong>3.</strong> Get right the words 3 times to get to the next level.  <br> 
+                <strong>4.</strong> 3 wrong words and you're <strong>Out.</strong></p>
+                <h2 style="color: rgb(253, 68, 43); ;">
+                    Score  <span style="color: #00a827;">10</span> Points  for a  <span style="color: #0081eb;">Special Gift</span>
+                </h2>
+            </div>
+
+            <div class="container">
+                <p id="wordBox"></p>
+                <input type="text" id="inputBox" placeholder="Your word here" autocomplete="off">
+                <button class="button" id="startButton">START</button>
+                <div class="star-container" id="starContainer">
+                    <span class="star">❤️</span>
+                    <span class="star">❤️</span>
+                    <span class="star">❤️</span>
+                </div>
+            </div>
+
+            <div class="containerResults">
+                <p id="results"></p>
+            </div>
+        </div>
+
+        <footer>
+            <p style="color: black;">Made by <a href="https://www.facebook.com/eita.rohan/" style="color: rgb(0, 47, 255);">Rohan</a></p>
+        </footer>
+
+        <script src="./js/main.js"></script>
+    </body>
+</html>
