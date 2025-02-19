@@ -45,4 +45,5 @@ This project was developed with a focus on **clean code**, **modern design**, an
 
 ## 👨‍💻 Developed By  
 
-💪 & ❤️ by **Rohan Rusho** | Frontend & Backend Developer  
+💪 & ❤️ by [**Rohan Rusho**](https://facebook.com/eita.rohan) | Frontend & Backend Developer  
+ 
