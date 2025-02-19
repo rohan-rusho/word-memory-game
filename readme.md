@@ -3,7 +3,7 @@ The Words Memory Game is an engaging and interactive web-based application desig
 
 This project was developed with a focus on clean code, modern design, and an intuitive user experience.
 
-🔗 🌟 Live Demo : bit-game.netlify.app/
+🔗 🌟 Live Demo: bit-game.netlify.app
 
 🚀 Features
 📝 Displays a set of random words for a few seconds.
@@ -15,8 +15,6 @@ HTML5: Semantic markup for structured content.
 CSS3: Responsive design with modern styling and animations.
 JavaScript (Vanilla): Core logic and interactivity without external libraries.
 ⚙️ How Does It Work?
-
-
 Click Start to display a set of random words.
 Memorize the words within the given time limit.
 Input the words you remember after they disappear.
@@ -28,6 +26,3 @@ Submit your answers to view your score.
 🎁 Prize system based on accuracy and speed.
 👨‍💻 Developed By
 💪 & ❤️ by Rohan Rusho | Frontend & Backend Developer
-
-
-
